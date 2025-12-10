@@ -52,7 +52,8 @@ Vehicles are not treated equally. The dashboard parses Plate Numbers to categori
 **Prerequisites**
 * Python 3.8 or higher
 
-**Step 1: Clone the Repository**
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/ATS-Fleet-Intelligence-Dashboard.git
 cd ATS-Fleet-Intelligence-Dashboard
+python -m streamlit run app.py
