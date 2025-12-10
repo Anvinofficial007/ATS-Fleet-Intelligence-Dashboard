@@ -54,5 +54,5 @@ Vehicles are not treated equally. The dashboard parses Plate Numbers to categori
 
 **Step 1: Clone the Repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ATS-Fleet-Intelligence-Dashboard.git](https://github.com/YOUR_USERNAME/ATS-Fleet-Intelligence-Dashboard.git)
+git clone https://github.com/YOUR_USERNAME/ATS-Fleet-Intelligence-Dashboard.git
 cd ATS-Fleet-Intelligence-Dashboard
